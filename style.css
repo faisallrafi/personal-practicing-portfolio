@@ -4,3 +4,26 @@ body{
 h1{
     font-size: 50px;
 }
+.ccolor{
+    color: hotpink;
+}
+section{
+    display: flex;
+}
+.sizze{
+    width:40%;
+    padding-left: 5%;
+}
+.pic-size{
+    nav-right:80%
+}
+.pic-size{
+    padding-left: 8% ;
+}
+.button-size{
+    color: white;
+    background-color:orangered;
+    padding: 10px 40px;
+    font: size 700;
+    border-radius: 7%;
+} 
